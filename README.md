@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Arik-KO
+- 👋 Hi, I’m Arik Anjum Anik
 - 👀 I’m interested in Machine Learning, Robotics, Power Systems, Autonomous Vehicles, and Drilling Rigs
 - 🌱 I’m currently learning Machine Learning, Robotics, and Self-Driving Cars
 - 💞️ I’m looking to collaborate on ML projects or Robotics projects
